@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Bhaskar Thakur 👋
 
-<!--
-**dominator025/dominator025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Web & Mobile Developer**
 
-Here are some ideas to get you started:
+I enjoy building modern web applications and mobile experiences with a focus on clean code, performance, and intuitive user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend**
+- React
+- Next.js
+- JavaScript
+- TypeScript
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+- Supabase
+
+**Mobile**
+- Flutter
+- React Native
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Postman
+
+## Connect
+
+- GitHub: https://github.com/dominator025
+- LinkedIn: https://www.linkedin.com/in/bhaskarthakur025/
+
+---
+
+> *Always learning. Always building.*
