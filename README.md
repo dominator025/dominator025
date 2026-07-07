@@ -34,6 +34,7 @@ I enjoy building modern web applications and mobile experiences with a focus on 
 
 - GitHub: https://github.com/dominator025
 - LinkedIn: https://www.linkedin.com/in/bhaskarthakur025/
+- Portfolio: https://bhaskarthakur.vercel.app/
 
 ---
 
